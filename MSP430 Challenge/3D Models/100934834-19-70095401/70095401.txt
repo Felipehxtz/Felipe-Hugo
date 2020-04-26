@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"C0402C120J5GACTU";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"KEMET";"";
+"TraceParts.PartStatus";"Published";"";
+"ALLIED_STOCK_NUMBER";"70095401";"";
+"TraceParts.PartNumber";"10-12012018-079754";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"0402 C0G ceramic capacitor, 50V 12pF";"";
+"TraceParts.InstanceId";"10-12012018-0797543W9ITF74ZKPQ95X9EGIPZ1F9C";"";
+"TraceParts.PartTitle";"0402 C0G ceramic capacitor, 50V 12pF";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"ALLIED_ELECTRONICS:/ALLIED_ELECTRONICS/PSSS_432964/PSS_432965/PSF_432971/10-12012018-079754";"";
