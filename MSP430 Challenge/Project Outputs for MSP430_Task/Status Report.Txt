@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 01:39:28 On 02/05/2020
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [MSP430_Task.PcbDoc]
+   Generated File[[No Variations].step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 01:39:34 On 02/05/2020
